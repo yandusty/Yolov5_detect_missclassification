@@ -1,3 +1,9 @@
 pip install picamera
 pip install opencv-python
 pip install numpy
+
+sudo apt-get update
+sudo apt-get install python3-picamera
+sudo apt-get install libatlas-base-dev
+pip install opencv-python
+pip install numpy
